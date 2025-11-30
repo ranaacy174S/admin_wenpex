@@ -1,4 +1,4 @@
-const appUrl = "http://localhost:3001";
+const appUrl = "http://localhost:3003";
 
 export const ApiConfig = {
   // =========EndPoints==========
