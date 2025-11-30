@@ -1,4 +1,4 @@
-const appUrl = "http://localhost:3003";
+const appUrl = "https://backend.wenpex.com";
 
 export const ApiConfig = {
   // =========EndPoints==========
