@@ -45,7 +45,7 @@ const ForgetpasswordPage = () => {
                             <div className="col-xl-5 col-lg-6 col-md-8 col-sm-11">
 
                                 <div className="card-body p-5 text-center">
-                                    <img src="/assets/img/logo-white.svg" className="img-fluid" alt="" width='300' />
+                                    <img src="/assets/img/dark_logo1.svg" className="img-fluid" alt="" width='300' />
                                 </div>
                                 <div className="card">
 

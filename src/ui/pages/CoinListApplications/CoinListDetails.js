@@ -103,7 +103,7 @@ const CoinListDetails = () => {
                                         <hr className="my-3" />
                                         <div className="row" > <span className="col-3" >Target timeline for listing:</span> <strong className=" col">{coinDetails?.timeline}</strong></div>
                                         <hr className="my-3" />
-                                        <div className="row" > <span className="col-3" >Referred by (CTEX officials, if no please input "No"):</span> <strong className=" col">{coinDetails?.isReferred}</strong></div>
+                                        <div className="row" > <span className="col-3" >Referred by (Wenpex officials, if no please input "No"):</span> <strong className=" col">{coinDetails?.isReferred}</strong></div>
                                         <hr className="my-3" />
                                         <div className="row" > <span className="col-3" >If you are working with any third-party listing agent, please specify:</span> <strong className=" col">{coinDetails?.thirdPartyWorking}</strong></div>
                                         <hr className="my-3" />
